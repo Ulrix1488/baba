@@ -1,0 +1,137 @@
+.menu {
+  background-color: rgba(15, 14, 14, 1);
+}
+
+body {
+  background-color: rgba(0, 0, 0, 1);
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+
+  height: 48px;
+}
+
+.menu-list {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.Sandbox {
+  background-color: rgba(234, 255, 150, 1);
+
+  color: rgba(21, 21, 21, 1);
+  border: none;
+  cursor: pointer;
+  width: 112px;
+  height: 28px;
+  gap: 0px;
+  border-radius: 4px 4px 4px 4px;
+  opacity: 0px;
+  margin-top: 10px;
+  margin-left: 90px;
+}
+
+.logo {
+  height: 20px;
+  width: 141px;
+  margin-top: 14px;
+  margin-left: 220px;
+}
+.Product {
+  width: 48px;
+  height: 15px;
+  font-size: 12px;
+  margin-left: 252px;
+  margin-top: 16px;
+  color: rgba(153, 153, 153, 1);
+}
+.Explore {
+  color: rgba(153, 153, 153, 1);
+  font-size: 13px;
+  margin-top: 16px;
+  margin-left: 106px;
+}
+.Resources {
+  color: rgba(153, 153, 153, 1);
+  font-size: 13px;
+  margin-top: 16px;
+  margin-left: 104px;
+}
+.Support {
+  color: rgba(153, 153, 153, 1);
+  margin-top: 16px;
+  font-size: 12px;
+  margin-left: 123px;
+}
+.Pricing {
+  color: rgba(153, 153, 153, 1);
+  margin-top: 16px;
+  font-size: 12px;
+  margin-left: 107px;
+}
+.Jobs {
+  color: rgba(153, 153, 153, 1);
+  margin-top: 16px;
+  font-size: 13px;
+  margin-left: 90px;
+}
+.Sign {
+  color: rgba(153, 153, 153, 1);
+  margin-top: 16px;
+  font-size: 13px;
+  margin-left: 97px;
+}
+.In {
+  color: rgba(153, 153, 153, 1);
+  margin-top: 16px;
+}
+.photo {
+  margin-left: 420px;
+  margin-top: 39px;
+}
+.CodeSandbox {
+  margin-left: 839px;
+  margin-top: 117px;
+  font-size: 35px;
+  margin-bottom: 0;
+}
+.Where {
+  font-size: 64px;
+  margin-left: 676px;
+  margin-top: 14px;
+  margin-bottom: 0;
+}
+.faster {
+  margin-bottom: 0;
+  font-size: 64px;
+  margin-left: 725px;
+  margin-top: 14px;
+}
+.Create {
+  color: rgba(153, 153, 153, 1);
+  font-size: 17px;
+  margin-left: 749px;
+  margin-bottom: 0;
+}
+.san {
+  color: rgba(153, 153, 153, 1);
+  font-size: 17px;
+  margin-left: 799px;
+  margin-top: 3px;
+}
+.coding {
+  background: rgba(234, 255, 150, 1);
+  color: rgba(21, 21, 21, 1);
+  width: 212px;
+  height: 29px;
+margin-left: 844px;
+  gap: 0px;
+  border-radius: 4px 4px 4px 4px;
+  opacity: 0px;
+}
